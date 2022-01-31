@@ -2,7 +2,7 @@
 # **Diamond Bluff Vision Statement**
 
 The objective of the Diamond Bluff initiative is to foster a community-driven
-standards-based open ecosystem for next generation architectures and
+standards-based open ecosystem for next generation architectures, APIs, and
 frameworks based on DPU/IPU-like technologies.
 
 # **Diamond Bluff Project Backgrounder**
